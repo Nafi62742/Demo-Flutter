@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217260473326",
+    "project_id": "racer-app-de9e3",
+    "storage_bucket": "racer-app-de9e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217260473326:android:d778eaa3341b8fb2106cff",
+        "android_client_info": {
+          "package_name": "com.example.worldtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217260473326-shjb3rh1m076bmoq92ik2rtue4flomm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzj9dBn0D8muQ555g9HSuY3zI-j5HYsdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217260473326-shjb3rh1m076bmoq92ik2rtue4flomm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
